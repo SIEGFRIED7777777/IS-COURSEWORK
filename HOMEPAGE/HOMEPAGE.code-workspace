@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Desktop/HOMEPAGE"
+		},
+		{
+			"path": "../../../../Desktop/PRODUCT PAGE"
+		},
+		{
+			"path": "../../../../Desktop/Blog page"
+		},
+		{
+			"path": "../../../../Desktop/Research page"
+		},
+		{
+			"path": "../../../../Desktop/About us"
+		},
+		{
+			"path": "../../../../Desktop/Contact us"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HOMEPAGE"
+	}
+}
